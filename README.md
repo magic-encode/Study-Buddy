@@ -5,7 +5,7 @@ Live website - https://study-chatuz.herokuapp.com/ <hr><br>
 
 
 # Installation
-* 1 - clone repo https://github.com/uzdevpython/Study-Buddy.git
+* 1 - clone repo https://github.com/magic-encode/Study-Buddy.git
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv env
